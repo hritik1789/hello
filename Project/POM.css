@@ -1,0 +1,93 @@
+*{
+margin: 0;
+color: rgb(246, 246, 246);
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.container{
+    background: linear-gradient(2170deg,#F53844,#42378F);
+}
+.navbar{
+   
+    display: flex;
+    justify-content:space-between;
+}
+
+.navbar1{
+
+    display: flex;
+    justify-content: space-around;
+}
+.navbar2{
+    display: flex;
+    justify-content: space-around; 
+}
+.name{
+margin:15px;
+
+}
+.talent{
+margin:15px;
+
+}
+.work{
+margin:15px;
+
+}
+.us{
+margin:15px;
+
+}
+.contact{
+margin:15px;
+
+}
+.log{
+margin:15px;
+
+}
+.sign{
+margin:15px;
+
+}
+.search{
+margin:15px;
+border-radius: 100px;
+
+
+}
+.navbar2 input[type=text]{
+   
+border-radius: 10px;
+ 
+}
+
+.lowernav{
+    display: flex;
+    justify-content:flex-start;
+
+}
+
+span{
+    margin-top:15px  ;
+    margin-bottom: 15px;
+    margin-left:15px ;
+    margin-right:40px ;
+
+    
+}s
+
+img{
+    height:100%;
+    width: 100%;
+    margin-bottom: 0px;
+    margin-top: 80px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+h1{
+    font-size:80px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 80px;
+    margin-bottom: 0px;
+}
